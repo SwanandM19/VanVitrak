@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "area_1",
+        "name": "Small IT Block",
+        "description": "Compact IT development zone (~250m)",
+        "population": 2500,
+        "area": "Baner Tech Corner",
+        "color": [255, 100, 100, 140]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.8567, 18.5204],
+          [73.8574, 18.5207],
+          [73.8578, 18.5203],
+          [73.8580, 18.5200],
+          [73.8576, 18.5196],
+          [73.8572, 18.5195],
+          [73.8570, 18.5198],
+          [73.8567, 18.5201],
+          [73.8567, 18.5204]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "area_2",
+        "name": "Residential Cluster",
+        "description": "Small residential block (~200m)",
+        "population": 1800,
+        "area": "Aundh Micro Zone",
+        "color": [100, 255, 100, 140]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.8572, 18.5202],
+          [73.8579, 18.5205],
+          [73.8582, 18.5202],
+          [73.8584, 18.5199],
+          [73.8581, 18.5196],
+          [73.8578, 18.5194],
+          [73.8575, 18.5196],
+          [73.8573, 18.5199],
+          [73.8572, 18.5202]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "area_3",
+        "name": "Mini Commercial",
+        "description": "Small L-shaped commercial zone (~150m)",
+        "population": 800,
+        "area": "Wakad Corner",
+        "color": [100, 100, 255, 140]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.8575, 18.5200],
+          [73.8582, 18.5203],
+          [73.8585, 18.5201],
+          [73.8586, 18.5198],
+          [73.8588, 18.5197],
+          [73.8589, 18.5194],
+          [73.8586, 18.5193],
+          [73.8583, 18.5194],
+          [73.8581, 18.5196],
+          [73.8578, 18.5197],
+          [73.8576, 18.5199],
+          [73.8575, 18.5200]
+        ]]
+      }
+    }
+  ]
+}
